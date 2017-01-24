@@ -1,0 +1,5 @@
+﻿  KPU-Lab-1.1.cpp
+c:\users\soren\onedrive\iha\6.semester\vs-2015\projects\kpu-lab-1\kpu-lab-1.1\kpu-lab-1.1.cpp(23): warning C4172: returning address of local variable or temporary: mychar
+     Creating library C:\Users\soren\OneDrive\IHA\6.Semester\VS-2015\Projects\KPU-Lab-1\Debug\KPU-Lab-1.1.lib and object C:\Users\soren\OneDrive\IHA\6.Semester\VS-2015\Projects\KPU-Lab-1\Debug\KPU-Lab-1.1.exp
+  KPU-Lab-1.1.vcxproj -> C:\Users\soren\OneDrive\IHA\6.Semester\VS-2015\Projects\KPU-Lab-1\Debug\KPU-Lab-1.1.dll
+  KPU-Lab-1.1.vcxproj -> C:\Users\soren\OneDrive\IHA\6.Semester\VS-2015\Projects\KPU-Lab-1\Debug\KPU-Lab-1.1.pdb (Full PDB)
